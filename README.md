@@ -1,1 +1,2 @@
-# .github
+# Sylnovia
+# https://www.sylnovia.com/
