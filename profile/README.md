@@ -1,12 +1,18 @@
-## Hi there 👋
+# Sylnovia
 
-<!--
+Welcome to Sylnovia!
 
-**Here are some ideas to get you started:**
+## About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Sylnovia is a innovative software company.
+
+## Mission
+
+Our mission is to make a bug less software world.
+
+
+## Contact
+
+If you have any questions or concerns, feel free to reach out to us at [info.sylnovia@gmail.com](mailto:info.sylnovia@gmail.com).
+
+[Visit our website](https://www.sylnovia.com/) for more information about Sylnovia and our projects.
